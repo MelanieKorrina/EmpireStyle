@@ -1,0 +1,150 @@
+h1{
+	color: #324d00;
+	font-size:120px;
+	font-family:'Great Vibes', Helvetica, sans-serif;
+	text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
+.top{
+	background-image: url("pgirl.jpg");
+	padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 350px;
+    padding-left: 30px;
+	z-index: 4;
+}
+h2{
+	color: #324d00;
+	position: absolute;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    right: 743px;
+    top: 200px;
+}
+
+body{
+	background-color: white;
+}
+
+button.shirt{
+	background-color: #324d00;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	position: absolute;
+    right: 1170px;
+    top: 600px;
+}
+
+button.pants{
+	background-color: #324d00;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	position: absolute;
+    right: 1170px;
+    top: 1000px;
+}
+
+button.shorts{
+	background-color: #324d00;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	position: absolute;
+    right: 800px;
+    top: 1000px;
+}
+
+button.sweater{
+	background-color: #324d00;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	position: absolute;
+    right: 800px;
+    top: 600px;
+}
+button.skirt{
+	background-color: #324d00;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	position: absolute;
+    right: 400px;
+    top: 1000px;
+}
+button.dress{
+	background-color: #324d00;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	position: absolute;
+    right:400px;
+    top: 600px;
+}
+button.earrings{
+	background-color: #324d00;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	position: absolute;
+    right: 10px;
+    top: 600px;
+}
+button.shoes{
+	background-color: #324d00;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	position: absolute;
+    right: 10px;
+    top: 1000px;
+}
+
